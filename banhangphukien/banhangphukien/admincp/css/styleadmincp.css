@@ -1,0 +1,38 @@
+ul.admincp_list {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+ul.admincp_list li {
+    float: left;
+    margin: 5px;
+}
+.clear{
+	clear: both;
+}
+h3.title_admin {
+    text-align: center;
+    font-size: 40px;
+    color: gray;
+}
+.wrapper{
+	border:1px solid #000;
+	height: auto;
+	width: 90%;
+    margin:0 auto;
+    background: #EFF0F3;
+}
+.footer{
+	border:1px solid #ff1a8c;
+	height: 150px;
+	width: 100%;
+    background : gray;
+    color: white;
+}
+p.footer_copyright {
+    text-align: center;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    color: #000;
+    color: #ddd;
+    font-size: 20px;
+}
